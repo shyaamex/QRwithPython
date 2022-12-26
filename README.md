@@ -8,7 +8,10 @@ This can create an QR instantly for the given input.
 <p>
 You can simply enter URL of your social media profile or any website to the app as an input and it will create a QR, which will redirect you to the linked website
 on scanning it. It eases the process of sharing links and make it more efficient, as in we can avoid typos while sharing the URLs.
-
+<br>
+<br>
+ <br>
+  <br>
 
 ## How it works?
 1. Simply, clone this repository to your local machine and run main.py file on your local machine.

@@ -17,7 +17,7 @@ on scanning it. It eases the process of sharing links and make it more efficient
 <img alt="Screenshot1" src="https://user-images.githubusercontent.com/115785301/209571358-8154b366-5142-4466-9da1-1caba9d5be95.jpg" length="400" width="400" align="center"> </img>
 
 
-3. Now, Add your URL in the text box. This URL would be redirected when the user scans QR.
+3. Now, Add your URL in the text box. This URL would be redirected when the user scans QR code.
 
 <img alt="Screenshot2" src="https://user-images.githubusercontent.com/115785301/209571944-ca41d6a7-8bbe-4510-a7de-b7e96e2efdda.jpg" length="400" width="400" align="center"> </img>
 

@@ -1,5 +1,5 @@
 # QR Creator
-<img src="https://www.shoocal.com/wp-content/uploads/2022/05/60c84566f16709184869c7d6_social_media-1.jpeg" align="right" width="400" length="200" ></img>
+<img alt="QRimage" src="https://www.shoocal.com/wp-content/uploads/2022/05/60c84566f16709184869c7d6_social_media-1.jpeg" align="right" width="400" length="200" ></img>
 <p>
 This mini project application is built using python. 
 It is used to create a QR code for a given URL link or any specific texts.
@@ -14,17 +14,17 @@ on scanning it. It eases the process of sharing links and make it more efficient
 1. Simply, clone this repository to your local machine and run main.py file on your local machine.
 2. This window will prompt on your screen
 
-<img src="https://user-images.githubusercontent.com/115785301/209571358-8154b366-5142-4466-9da1-1caba9d5be95.jpg" length="400" width="400" align="center"> </img>
+<img alt="Screenshot1" src="https://user-images.githubusercontent.com/115785301/209571358-8154b366-5142-4466-9da1-1caba9d5be95.jpg" length="400" width="400" align="center"> </img>
 
 
 3. Now, Add your URL in the text box. This URL would be redirected when the user scans QR.
 
-<img src="https://user-images.githubusercontent.com/115785301/209571944-ca41d6a7-8bbe-4510-a7de-b7e96e2efdda.jpg" length="400" width="400" align="center"> </img>
+<img alt="Screenshot2" src="https://user-images.githubusercontent.com/115785301/209571944-ca41d6a7-8bbe-4510-a7de-b7e96e2efdda.jpg" length="400" width="400" align="center"> </img>
 
 
 4. Click on create, and a QR related to given URL will be created with in a fraction of second.
 
-<img src="https://user-images.githubusercontent.com/115785301/209572248-57b4e882-dec8-4e6d-9849-df7f23f35e5e.jpg" length="400" width="400" align="center"> </img>
+<img alt="Screenshot3" src="https://user-images.githubusercontent.com/115785301/209572248-57b4e882-dec8-4e6d-9849-df7f23f35e5e.jpg" length="400" width="400" align="center"> </img>
 
 ## Requirements
 
